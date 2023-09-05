@@ -18,7 +18,7 @@
 
 
 <p>https://github-readme-stats.vercel.app/api/top-langs/?vatiza=anuraghazra&langs_count=8</p>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vatiza)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats] https://github-readme-stats.vercel.app/api/wakatime?username=vatiza
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatiza&show_icons=true&locale=en" alt="vatiza" /></p>
 
